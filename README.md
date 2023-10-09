@@ -1,3 +1,3 @@
-# Python-Projects
+Python-Projects
 
-#Python Projects for beginners to improve your skills from freecodecamp.
+Python Projects for beginners to improve your skills.
