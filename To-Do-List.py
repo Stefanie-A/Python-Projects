@@ -7,7 +7,7 @@ def remove_task(task):
     if task in Tasks:
         Tasks.remove(task)
     else: 
-        return "Task nor found", 401
+        return "Task not found", 401
     
 def view_tasks():
     for i, task in enumerate(Tasks, start=1):
